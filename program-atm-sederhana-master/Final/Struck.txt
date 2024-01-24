@@ -1,0 +1,7 @@
+=================================
+STRUCK ATM
+=================================
+Transksi Terakhir
+Penarikan Uang :0
+Trasfer Uang   :20000
+Saldo Akhir    :980000
